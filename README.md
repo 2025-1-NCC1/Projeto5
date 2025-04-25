@@ -1,118 +1,75 @@
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
-
-Vide tutoriais do PI.
-```
-
-# FECAP - Fundação de Comércio Álvares Penteado
+# 404 Not Found
 
 <p align="center">
-<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
+  <a href="https://www.fecap.br/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP" border="0">
+  </a>
 </p>
-
-# Nome do Projeto
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+### Integrantes
+- [Breno Groba](https://www.linkedin.com/in/breno-groba/)
+- [João Victor Canello](https://www.linkedin.com/in/joao-victor-canello/)
+- [Igor Almeida](https://www.linkedin.com/in/igor-almeida/)
+- Kaio Inglez  
+- Gustavo Diniz
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+### Professores Orientadores
+- [Dr. Victor Von](https://www.linkedin.com/in/victorbarq/)
 
-## Descrição
+---
 
-<p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
+## 🎮 Sobre o Jogo
 
+**404 Not Found** é um jogo de simulação desenvolvido para PC, onde o jogador assume o papel de prefeito de uma cidade. O objetivo é transformar uma cidade comum em uma cidade sustentável, administrando de forma eficiente os recursos básicos como água e energia.
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+Voltado para o público com mais de 10 anos, o jogo promove a conscientização ambiental de forma divertida, permitindo que o jogador aprenda na prática como aplicar soluções reais em cidades inteligentes.
 
-## 🛠 Estrutura de pastas
+---
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+## 📜 História
 
-A pasta raiz contem dois arquivos que devem ser alterados:
+O jogador começa com uma cidade pequena, composta por construções comuns. Ao longo do jogo, ele deverá identificar padrões de consumo exagerado de recursos e aplicar melhorias e upgrades tecnológicos, reduzindo o desperdício e aumentando a sustentabilidade.
 
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
+O jogo termina quando todos os edifícios atingem o nível máximo de eficiência ou quando o consumo total da cidade atinge um valor sustentável.
 
-Há também 4 pastas que seguem da seguinte forma:
+---
 
-<b>documentos</b>: Toda a documentação estará nesta pasta.
+## 🕹 Gameplay
 
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
+- Gerenciamento de cidade e recursos (água, energia, poluição)
+- Missões iniciais para guiar o jogador
+- Evolução baseada em boas práticas ambientais
+- Transformação gradual de cidade comum para cidade moderna
 
-<b>imagens</b>: Imagens do sistema
+---
 
-<b>src</b>: Pasta que contém o código fonte.
+## 🌍 Mundo e Interface
 
-## 🛠 Instalação
+- Cenário urbano que evolui conforme a eficiência aumenta
+- Interface minimalista com HUD inferior, mostrando recursos e felicidade da população
+- Janelas pop-up com dados de cada construção
 
-<b>Android:</b>
+---
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+## 🚫 Inimigos
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+O jogo não possui inimigos ou chefes. Os desafios estão nas decisões estratégicas que o próprio jogador (prefeito) deve tomar para equilibrar os recursos.
 
-<b>Windows:</b>
+---
 
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+## 🔁 Fator Replay
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+Cada partida é única graças à aleatoriedade nos padrões de consumo. Isso garante uma experiência nova e educativa a cada vez que se joga.
 
-<b>HTML:</b>
+---
 
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+## 💰 Monetização
 
-## 💻 Configuração para Desenvolvimento
+O modelo de monetização é baseado em parcerias e patrocínios com empresas que promovem a conscientização ambiental.
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+---
 
-Para abrir este projeto você necessita das seguintes ferramentas:
+## 🛠 Estrutura de Pastas
 
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
-
-## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
-
-## 🎓 Referências
-
-Aqui estão as referências usadas no projeto.
-
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.

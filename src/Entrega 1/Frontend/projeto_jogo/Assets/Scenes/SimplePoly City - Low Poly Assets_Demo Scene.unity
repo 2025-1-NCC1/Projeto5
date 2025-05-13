@@ -796,8 +796,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &24698377
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -810,8 +808,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &27650910
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -964,8 +960,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &30866873
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -978,8 +972,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &30866877
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -992,13 +984,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &31992576
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1180,8 +1165,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &41055693
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1194,8 +1177,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &41055697
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1208,13 +1189,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &46095973
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2119,8 +2093,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &77552792
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2133,8 +2105,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &77552796
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2147,13 +2117,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1 &77720986 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: b8365ae9a93a2e8498ae3c2646f3c455, type: 3}
@@ -2171,8 +2134,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!65 &77720991
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2206,13 +2167,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &81096811
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2398,8 +2352,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &86367490
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2412,8 +2364,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &86682480
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2501,8 +2451,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &92526204
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2515,8 +2463,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &94469451
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5099,8 +5045,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &216302521
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5113,8 +5057,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &216302525
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5127,13 +5069,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &218487123
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6958,8 +6893,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &293129665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6972,8 +6905,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &293129669
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6986,13 +6917,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &302893913
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7325,8 +7249,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &321070771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7339,8 +7261,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &321070775
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7353,13 +7273,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &324491880
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10297,8 +10210,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &442967180
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10311,8 +10222,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &445965842
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10759,8 +10668,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &458991281
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10773,8 +10680,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &458991285
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10787,13 +10692,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &462431705
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11436,8 +11334,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &490593420
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11450,8 +11346,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &493888910
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12458,13 +12352,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a0560ee6128d314db3fe44df697cec3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidadeNormal: 20
-  velocidadeCorrendo: 40
-  cameraTransform: {fileID: 1704015174}
-  limiteMinX: -8
-  limiteMaxX: 251
-  limiteMinZ: -8
-  limiteMaxZ: 226
 --- !u!1001 &535717263
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13059,25 +12946,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4cfcf659200d7548b90a5580c3ab18f, type: 3}
---- !u!1 &553281202 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2771036386499613912, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-  m_PrefabInstance: {fileID: 672211433}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &553281208
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 553281202}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25851b45d09a8f444a4aa7758e82773f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  menuPanel: {fileID: 571994979}
-  cam: {fileID: 1704015173}
 --- !u!1001 &554717992
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13527,16 +13395,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2509cc5763ca17f4598bf61fd585a93e, type: 3}
---- !u!1 &571994979 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4607492801343561637, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-  m_PrefabInstance: {fileID: 672211433}
-  m_PrefabAsset: {fileID: 0}
---- !u!223 &571994983 stripped
-Canvas:
-  m_CorrespondingSourceObject: {fileID: 6141325120743038493, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-  m_PrefabInstance: {fileID: 672211433}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &580403587
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13926,8 +13784,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &591997566
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13940,8 +13796,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1 &592041235 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: b8365ae9a93a2e8498ae3c2646f3c455, type: 3}
@@ -13980,8 +13834,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &592041244
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13994,8 +13846,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &592041248
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14008,13 +13858,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &596245479
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14956,8 +14799,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &643703903
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14970,8 +14811,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &652002381
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15059,8 +14898,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &652084950
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15073,8 +14910,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &654185128
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15419,8 +15254,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &659044523
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15433,8 +15266,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &660076378
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15648,8 +15479,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!65 &665063789
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15683,13 +15512,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &666500835
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15833,175 +15655,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4f32dfddb033d3e40b5841bc53cc1689, type: 3}
---- !u!1001 &672211433
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1441968411762508919, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -327
-      objectReference: {fileID: 0}
-    - target: {fileID: 1932010649155247993, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 117
-      objectReference: {fileID: 0}
-    - target: {fileID: 1932010649155247993, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 238
-      objectReference: {fileID: 0}
-    - target: {fileID: 2591841260511031288, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -673
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_Pivot.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_Pivot.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_AnchorMin.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3644260317576182765, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3721130667378134411, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -554
-      objectReference: {fileID: 0}
-    - target: {fileID: 3721130667378134411, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 248
-      objectReference: {fileID: 0}
-    - target: {fileID: 4607492801343561637, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_Name
-      value: Canvas (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4607492801343561637, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4961771135582272940, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 553281208}
-    - target: {fileID: 4961771135582272940, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: FecharMenu
-      objectReference: {fileID: 0}
-    - target: {fileID: 4962272328226541810, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: mediaTipos
-      value: 
-      objectReference: {fileID: 1028805085}
-    - target: {fileID: 4962272328226541810, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: problemaCasa
-      value: 
-      objectReference: {fileID: 2119467912}
-    - target: {fileID: 4962272328226541810, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: problemasLuz
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 4962272328226541810, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: problemasAgua
-      value: 
-      objectReference: {fileID: 2119467912}
-    - target: {fileID: 4962272328226541810, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: totalProblemas
-      value: 
-      objectReference: {fileID: 931923137}
-    - target: {fileID: 6159081183478409829, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -265
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 7497451589345751708, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1028805087}
-    - targetCorrespondingSourceObject: {fileID: 7497451589345751708, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 931923135}
-    - targetCorrespondingSourceObject: {fileID: 7497451589345751708, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2119467910}
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 2771036386499613912, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 553281208}
-  m_SourcePrefab: {fileID: 100100000, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
 --- !u!1001 &677094804
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16383,8 +16036,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!65 &690526910
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16418,13 +16069,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &690719281
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17095,8 +16739,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!65 &715903978
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17130,13 +16772,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &717534118
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17346,8 +16981,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &720902359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17360,8 +16993,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &721625864
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18438,8 +18069,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!65 &780202410
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18473,13 +18102,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &780494824
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18576,8 +18198,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &782132863
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18590,8 +18210,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &782327803
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19084,8 +18702,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &807280341
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19098,8 +18714,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &811469920
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21520,142 +21134,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4cfcf659200d7548b90a5580c3ab18f, type: 3}
---- !u!1 &931923134
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 931923135}
-  - component: {fileID: 931923136}
-  - component: {fileID: 931923137}
-  m_Layer: 0
-  m_Name: totalProblemas
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &931923135
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 931923134}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1284825729}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -236, y: 130}
-  m_SizeDelta: {x: 200, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &931923136
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 931923134}
-  m_CullTransparentMesh: 1
---- !u!114 &931923137
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 931923134}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: total Problemas
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_EmojiFallbackSupport: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!1 &934900638 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 3a0bc997d3424474696ad8d2e7d684ab, type: 3}
@@ -21694,8 +21172,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &934900647
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21708,8 +21184,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &934900651
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21722,13 +21196,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &939177595
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23363,8 +22830,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1011754577
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23377,8 +22842,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1012648471
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23658,8 +23121,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1023011422
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23672,8 +23133,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1023011426
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23686,13 +23145,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &1025821423
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23791,142 +23243,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4cfcf659200d7548b90a5580c3ab18f, type: 3}
---- !u!1 &1028805084
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1028805087}
-  - component: {fileID: 1028805086}
-  - component: {fileID: 1028805085}
-  m_Layer: 0
-  m_Name: mediaTipos
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1028805085
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1028805084}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: New Text
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_EmojiFallbackSupport: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &1028805086
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1028805084}
-  m_CullTransparentMesh: 1
---- !u!224 &1028805087
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1028805084}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1284825729}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -686, y: 124}
-  m_SizeDelta: {x: 200, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1030407528 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 260808cfd9b21994d8c3007a7bc9934c, type: 3}
@@ -23965,8 +23281,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1030407537
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23979,8 +23293,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1031924671
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24068,8 +23380,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1037644813
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24082,8 +23392,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1037644817
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24096,13 +23404,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1 &1040120519 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 1d53359c70324d14c989d7058b50ec6b, type: 3}
@@ -24141,8 +23442,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1040120528
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24155,8 +23454,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1040382370
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24949,8 +24246,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1080186132
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24963,8 +24258,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1081125528
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25257,8 +24550,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1090558530
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25271,8 +24562,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1090558534
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25285,13 +24574,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &1091092098
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25787,8 +25069,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1111170194
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25801,8 +25081,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1113049859
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26155,8 +25433,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1124986039
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26169,8 +25445,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1124986043
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26183,13 +25457,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &1125168404
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26277,8 +25544,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1127482769
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26291,8 +25556,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1128393229
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26527,8 +25790,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1130307174
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26541,8 +25802,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!4 &1130307177 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 63243ce2fd6113e4384abc2d949cb799, type: 3}
@@ -26560,13 +25819,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &1130806066
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28054,8 +27306,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1178481202
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28068,8 +27318,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1181746009
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29413,8 +28661,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1231440349
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29427,8 +28673,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1235021601
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30508,8 +29752,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1267656860
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30522,8 +29764,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1267656864
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30536,13 +29776,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &1269693736
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30960,11 +30193,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1445897341}
   m_SourcePrefab: {fileID: 100100000, guid: 8c3b216cc2b6dc04496d15009bc913cd, type: 3}
---- !u!224 &1284825729 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 7497451589345751708, guid: 9046e64f026d4d741ab97e0f6b6c10da, type: 3}
-  m_PrefabInstance: {fileID: 672211433}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1287257402
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35425,8 +34653,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!65 &1445897341
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35460,13 +34686,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &1449037871
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36114,8 +35333,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1474663888
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36128,8 +35345,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1479382372
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36861,8 +36076,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1530268229
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36875,8 +36088,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1530268233
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36889,13 +36100,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &1532056469
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -37032,8 +36236,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1535506760
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37046,8 +36248,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1535506764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37060,13 +36260,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &1539722177
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -37774,8 +36967,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!65 &1575509535
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37809,13 +37000,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &1576551584
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38689,8 +37873,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1609853438
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38703,8 +37885,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1610371167
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39110,8 +38290,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1626047318
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39124,8 +38302,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1 &1627994183 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 4dc7028a3a83758439585b7c7c98cb27, type: 3}
@@ -39164,8 +38340,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1627994192
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39178,8 +38352,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1628689719
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41513,27 +40685,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1704015169}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3b2b6d5786ece684c8c239b602ec9bc0, type: 3}
+  m_Script: {fileID: 11500000, guid: 653b3113a60f24d44b275100211101ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MenuUI: {fileID: 571994983}
-  highlightMaterial: {fileID: 0}
-  mouseAtivo: 0
+  velocidade: 5
+  target: {fileID: 533248755}
+  offset: {x: 0, y: 40, z: 0}
 --- !u!114 &1704015178
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1704015169}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d6e1d0fa7b1c414ca74022de8b18c03, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  turn: {x: 0, y: 0}
-  sensitivity: 0.5
---- !u!114 &1704015179
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -41549,6 +40707,20 @@ MonoBehaviour:
   zoomSpeed: 5
   minFOV: 50
   maxFOV: 120
+--- !u!114 &1704015179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1704015169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d6e1d0fa7b1c414ca74022de8b18c03, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  turn: {x: 0, y: 0}
+  sensitivity: 0.5
 --- !u!114 &1704015180
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41558,12 +40730,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1704015169}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 653b3113a60f24d44b275100211101ae, type: 3}
+  m_Script: {fileID: 11500000, guid: 3b2b6d5786ece684c8c239b602ec9bc0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidade: 5
-  target: {fileID: 533248755}
-  offset: {x: 0, y: 40, z: 0}
+  MenuUI: {fileID: 0}
+  highlightMaterial: {fileID: 0}
+  mouseAtivo: 0
 --- !u!1001 &1704196083
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -42622,8 +41794,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1754009540
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42636,8 +41806,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1755038912
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -42870,8 +42038,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1766948265
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42884,8 +42050,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1769910411
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -44381,8 +43545,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1831651540
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44395,8 +43557,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1832339259
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -44631,8 +43791,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1842114771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44645,8 +43803,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1 &1848411048 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 142c9543c08ae014bad9d177ad54a989, type: 3}
@@ -44685,8 +43841,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1848411057
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44699,8 +43853,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1848411061
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44713,13 +43865,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &1848656987
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -47329,8 +46474,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &1944467729
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47343,8 +46486,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &1955908340
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -49092,8 +48233,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &2022560371
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49106,8 +48245,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &2022560375
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49120,13 +48257,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d26f52ec57a2fff43808941702027090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moradores: 0
-  tiposDeConsumo: 
-  consumoAguaTotal: 0
-  consumoEnergiaTotal: 0
-  mediaTipos: 0
-  totalProblemas: 0
-  problemaCasa: []
 --- !u!1001 &2023870123
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -50349,8 +49479,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &2054905560
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50363,8 +49491,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1 &2055614881 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 1682119d19a954f4a8020f36112606ed, type: 3}
@@ -50403,8 +49529,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &2055614892
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50417,8 +49541,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &2056000704
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -51590,142 +50712,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
---- !u!1 &2119467909
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2119467910}
-  - component: {fileID: 2119467911}
-  - component: {fileID: 2119467912}
-  m_Layer: 0
-  m_Name: problemasAgua
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &2119467910
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2119467909}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1284825729}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1010, y: 146}
-  m_SizeDelta: {x: 200, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &2119467911
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2119467909}
-  m_CullTransparentMesh: 1
---- !u!114 &2119467912
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2119467909}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: New Text
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 1
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_EmojiFallbackSupport: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: -649.6562, y: -228.31985, z: 173.7269, w: -514.43634}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!1001 &2122731591
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -51960,8 +50946,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!114 &2134965876
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51974,8 +50958,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be25de1191df2c547b0b23c612ffaa9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ativo: 0
-  selecionado: 0
 --- !u!1001 &2138330522
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -53197,7 +52179,6 @@ SceneRoots:
   - {fileID: 260734601}
   - {fileID: 2105700405}
   - {fileID: 22123018}
-  - {fileID: 672211433}
   - {fileID: 429589871}
   - {fileID: 531527280}
   - {fileID: 1158989960}

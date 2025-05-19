@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Ignora todos os arquivos .mat por padrão
+*.mat
+
+!Assets/assets/BrokenVector/LowPolyTreePack/Materials/*.mat
+
